@@ -31,8 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Treine.me é o projeto de site de academia para desenvolver habilidades na programação WEB.
-
+Este site foi criado utilizando os conceitos de html e css adquiridos no curso da rocketseat para desenvolvimento Web.
 - [Visite o projeto online](https://alexsandro-oliveria.github.io/Rocket.sect)
 
 ## 🔖 Layout
