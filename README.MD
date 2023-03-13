@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Este site foi criado utilizando os conceitos de html e css adquiridos no curso da rocketseat para desenvolvimento Web.
-- [Visite o projeto online](https://alexsandro-oliveria.github.io/Rocket.sect)
+- [Visite o projeto online](https://alexsandro-oliveira.github.io/Rocket.sect/)
 
 ## 🔖 Layout
 
